@@ -1,6 +1,6 @@
 package Sorting;
 
-public class Sorting {
+public class AllTypeSorting {
 
     // This is our bubble sort
     public static void bubbleSort(int arr[]) {
