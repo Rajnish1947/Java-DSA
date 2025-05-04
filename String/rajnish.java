@@ -8,7 +8,7 @@ public class rajnish{
         System.out.println("welcome Rajnish kumar ji app bahut ache ensan hai");
         
        } else {
-        System.out.println("tu chutiya hamesa gar marvata rahta hai pure college se");
+        System.out.println("tu chutiya hamesa ghar pe  rahta hai pure din se");
        }
 
     }
