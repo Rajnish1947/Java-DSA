@@ -20,14 +20,13 @@ public class Addvalue {
         MainList.add(List3);
         System.out.println(MainList);
 
-
         for (int j = 0; j < MainList.size(); j++) {
-            ArrayList <Integer> currentlis=MainList.get(j);
+            ArrayList<Integer> currentlis = MainList.get(j);
             for (int k = 0; k < currentlis.size(); k++) {
-                System.out.print(currentlis.get(k) +" ");
+                System.out.print(currentlis.get(k) + " ");
             }
             System.out.println();
-            
+
         }
     }
 
