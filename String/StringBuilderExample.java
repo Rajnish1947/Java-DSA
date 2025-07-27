@@ -1,3 +1,4 @@
+import java.util.*;;
 public class StringBuilderExample {
     public static void main(String[] args) {
         ToUppercaseString sb = new ToUppercaseString();  // ✅ initialize StringBuilder
